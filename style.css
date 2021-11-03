@@ -1,0 +1,22 @@
+.my-div {
+    margin: 50px ; 
+    padding : 100px ; 
+    text-align: center;
+    
+}
+
+.my-div button {
+    width : 150px
+}
+
+.fas {
+    font-size: 25px;
+}
+
+body {
+    background-image: url(./back3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color : white
+}
